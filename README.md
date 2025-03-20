@@ -9,6 +9,7 @@
 - [2.1 N-gram LM, Neural LM: CNN recap, методы сэмплирования - начало (03.03.2025)](Lecture%205)
 - [2.2 Neural LM: RNN recap, методы сэмплирования - конец (07.03.2025)](Lecture%206)
 - [2.3 Seq2Seq, Encoder-decoder NMT, Subword токенизация (10.03.2025)](Lecture%207)
+- [2.4 Attention is all you need (14-17.03.2025)](Lecture%208-09)
 ______
 
 #### Домашние задания
