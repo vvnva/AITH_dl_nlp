@@ -10,6 +10,10 @@
 - [2.2 Neural LM: RNN recap, методы сэмплирования - конец (07.03.2025)](Lecture%206)
 - [2.3 Seq2Seq, Encoder-decoder NMT, Subword токенизация (10.03.2025)](Lecture%207)
 - [2.4 Attention is all you need (14-17.03.2025)](Lecture%208-09)
+
+
+- [3.1 BERT and modifications, Topic Modeling (21.03.2025)](Lecture%210)
+
 ______
 
 #### Домашние задания
