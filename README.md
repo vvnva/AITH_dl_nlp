@@ -9,11 +9,12 @@
 - [2.1 N-gram LM, Neural LM: CNN recap, методы сэмплирования - начало (03.03.2025)](Lecture%205)
 - [2.2 Neural LM: RNN recap, методы сэмплирования - конец (07.03.2025)](Lecture%206)
 - [2.3 Seq2Seq, Encoder-decoder NMT, Subword токенизация (10.03.2025)](Lecture%207)
-- [2.4 Attention is all you need (14-17.03.2025)](Lecture%208-09)
+- [2.4 Attention is all you need (14-17.03.2025)](Lecture%208-9)
 
 
-- [3.1 BERT and modifications, Topic Modeling (21.03.2025)](Lecture%210)
-
+- [3.1 BERT и модификации, Topic Modeling (21.03.2025)](Lecture%2010)
+- [3.2 Finetuning: классификация текстов, NER, MLM (28.03.2025)](Lecture%2011)
+- [3.3 Bi-encoders, cross-encoders (31.03.2025)](Lecture%2012)
 ______
 
 #### Домашние задания
