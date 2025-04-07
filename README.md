@@ -24,4 +24,4 @@ ______
 | [1](HW/itmo_nlp_course_hw_1.md) | Предобработка и классификация новостей - classic ML | 10 | 04.03.2025 20:00 МСК| 11.03.2025 20:00 МСК|
 | [2](HW/itmo_nlp_course_hw_2.md) | Классификация текстов с W2V | 10 | 14.03.2025 20:00 МСК| 21.03.2025 20:00 МСК|
 | [3](HW/itmo_nlp_course_hw_3.md) | seq2seq - NMT | 10 | 20.03.2025 20:00 МСК| 27.03.2025 20:00 МСК|
-| [4](HW/itmo_nlp_course_hw_4.md) | Transformer NER & MLM finetuning | 10 | 09.04.2025 20:00 МСК| 16.04.2025 20:00 МСК|
+| [4](HW/itmo_nlp_course_hw_4.md) | Transformer NER & MLM finetuning | 10 | 16.04.2025 20:00 МСК| 23.04.2025 20:00 МСК|
