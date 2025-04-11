@@ -16,6 +16,7 @@
 - [3.2 Finetuning: классификация текстов, NER, MLM (28.03.2025)](Lecture%2011)
 - [3.3 Bi-encoders, cross-encoders (31.03.2025)](Lecture%2012)
 - [3.4 Современные трансформеры: изменения в PE и Attention (07.04.2025)](Lecture%2013)
+- [3.5 MoE, KV-Cache, Speculative Decoding, PEFT (11.04.2025)](Lecture%2014)
 ______
 
 #### Домашние задания
