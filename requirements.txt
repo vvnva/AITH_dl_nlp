@@ -5,3 +5,13 @@ pandas
 pymorphy3
 gensim
 navec
+deeppavlov
+evaluate
+seqeval
+transformers[torch]
+pyarrow
+accelerate
+razdel
+datasets
+torch
+numpy
