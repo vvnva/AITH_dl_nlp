@@ -2,7 +2,7 @@
 
 В этом задании вам предстоит дообучить трансформерную модель для задачи классификации с помощью различных техник и сравнить их между собой.
 
-Датасет: [dair-ai/emotion](dair-ai/emotion)
+Датасет: [dair-ai/emotion](https://huggingface.co/datasets/dair-ai/emotion) 
 
 Модель: [google-bert/bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased) (если хочется, можно заменить на что-то более интересное)
 
