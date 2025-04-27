@@ -3,5 +3,8 @@ nltk
 scikit-learn
 pandas
 pymorphy3
+torch
+matplotlib
+subword-nmt
 gensim
 navec
