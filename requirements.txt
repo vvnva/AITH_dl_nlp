@@ -8,3 +8,6 @@ matplotlib
 subword-nmt
 gensim
 navec
+peft
+evaluate
+transformers
