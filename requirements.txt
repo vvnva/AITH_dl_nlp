@@ -8,3 +8,13 @@ matplotlib
 subword-nmt
 gensim
 navec
+deeppavlov
+evaluate
+seqeval
+transformers[torch]
+pyarrow
+accelerate
+razdel
+datasets
+torch
+numpy
