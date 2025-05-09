@@ -9,5 +9,13 @@ subword-nmt
 gensim
 navec
 peft
+deeppavlov
 evaluate
-transformers
+seqeval
+transformers[torch]
+pyarrow
+accelerate
+razdel
+datasets
+torch
+numpy
