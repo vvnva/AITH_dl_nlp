@@ -8,6 +8,7 @@ matplotlib
 subword-nmt
 gensim
 navec
+bertopic
 peft
 deeppavlov
 evaluate
